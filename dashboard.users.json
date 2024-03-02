@@ -1,0 +1,38 @@
+[{
+  "_id": {
+    "$oid": "6565a0b6c0192abe6356c2ea"
+  },
+  "username": "aliasadraza",
+  "email": "aliasadraza512@gmail.com",
+  "password": "$2b$10$wulprz5bSKBZaGhlhydnwOTtRFQ2YCXB0I4S.k04r46uONIKWb8/W",
+  "isAdmin": true,
+  "isActive": true,
+  "phone": "03494864273",
+  "address": "Islamabd",
+  "createdAt": {
+    "$date": "2023-11-28T08:11:34.913Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-28T08:11:34.913Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6565c599b61a0d904744daa1"
+  },
+  "username": "aliaheikh512",
+  "email": "ali@hmail.com",
+  "password": "$2b$10$.fsh5Au0TIk9GLUWNS.N3OtwA/Q/gHak1Qd6oPPPnE7XIqkOwHTyG",
+  "isAdmin": true,
+  "isActive": true,
+  "phone": "03354554654",
+  "address": "the coding schdule",
+  "createdAt": {
+    "$date": "2023-11-28T10:48:57.489Z"
+  },
+  "updatedAt": {
+    "$date": "2023-11-28T10:48:57.489Z"
+  },
+  "__v": 0
+}]
